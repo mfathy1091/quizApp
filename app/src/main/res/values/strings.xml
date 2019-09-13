@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">quizapp</string>
+
+    <string name="title">Physics Quiz</string>
+    <string name="hint_your_name">Enter your name here!</string>
+
+    <string name="q1">Q1 - Force is measured by what unit of measure?</string>
+    <string name="q2">Q2 - Distance is the product of?</string>
+    <string name="q3">Q3 - Who introduced the relativity theory?</string>
+    <string name="q4">Q4 - The amount of matter in an object is its?</string>
+    <string name="q5">Q5 - What is the force that keeps us on the ground?</string>
+
+    <string name="q1_calories">Calories</string>
+    <string name="q1_degrees">Degrees</string>
+    <string name="q1_newtons">Newtons</string>
+    <string name="q1_joules">Joules</string>
+
+
+    <string name="q2_speed">Speed</string>
+    <string name="q2_mass">Mass</string>
+    <string name="q2_time">Time</string>
+    <string name="q2_energy">Energy</string>
+
+    <string name="q3_answer_hint">Write your answer here!</string>
+
+    <string name="q4_mass">Mass</string>
+    <string name="q4_weight">Weight</string>
+    <string name="q4_work">Work</string>
+    <string name="q4_force">Force</string>
+
+    <string name="q5_acceleration">Acceleration</string>
+    <string name="q5_gravity">Gravity</string>
+    <string name="q5_speed">Speed</string>
+    <string name="q5_mass">Mass</string>
+
+    <string name="submit">Submit Answers</string>
+
+
+
+    # strings resources for MainActivity.java
+
+    <string name="congrats">Congratulations,</string>
+    <string name="correct">% correct</string>
+    <string name="albert">albert einstein</string>
+    <string name="declare"> You have scored </string>
+
+
+</resources>
+
